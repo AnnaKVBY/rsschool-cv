@@ -1,0 +1,90 @@
+body {
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 0;
+    max-width: 800px;
+    font-family: 'Open Sans', 'Verdana', sans-serif;
+}
+
+.wrapper {
+    display: flex;
+       }
+
+figure {
+         margin: 0;
+         margin-right: 50px;
+        padding: 0;
+   }
+
+.header {
+    background-color: rgb(177, 47, 47);
+  }
+
+.name {
+    font-style:italic;
+    text-align: center;
+    color: white;   
+    align-self:center;
+    }
+
+.photo {
+  width: 300px; 
+  height: 100%; 
+}
+
+h2
+ {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+.education {
+    margin-top: 0;
+}
+
+.uni {
+    margin-bottom: 5px;
+}
+
+.mycode {
+    white-space: pre; 
+      }
+
+.about{
+        margin-top: -10px;
+            }
+
+.footer {
+    background-color: rgb(241, 172, 172);
+    border: 1px solid #ecb5b5;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+   }
+
+.github {
+  display: block;
+  width: auto;
+  height: 30px;
+  color:rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.iconrss {
+    background-image: url(./image/rs_school_js.svg);
+    background-repeat: no-repeat;
+    display: block;
+    width: 60px;
+    height: 30px;
+    }
+    
+
+
