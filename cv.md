@@ -31,7 +31,7 @@ Belarusian National Technical University
         }
 ```        
 ## My training projects
-https://www.codewars.com/users/AnnaKVBY
-https://rolling-scopes-school.github.io/annakvby-JSFEPRESCHOOL/portfolio/
-https://rolling-scopes-school.github.io/annakvby-JSFEPRESCHOOL/memory-game/
-https://rolling-scopes-school.github.io/annakvby-JSFEPRESCHOOL/movia-app/
+* https://www.codewars.com/users/AnnaKVBY
+* https://rolling-scopes-school.github.io/annakvby-JSFEPRESCHOOL/portfolio/
+* https://rolling-scopes-school.github.io/annakvby-JSFEPRESCHOOL/memory-game/
+* https://rolling-scopes-school.github.io/annakvby-JSFEPRESCHOOL/movia-app/
